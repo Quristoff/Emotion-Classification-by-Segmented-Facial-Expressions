@@ -5,7 +5,7 @@ Quristoff Jiang<br>
 
 
 Emotion recognitions by facial expressions are relying on the complete images of face. However, complete images of faces are not often available.<br>
-This project try to finetune models pre-trained on complete images of faces to classify emotions of segmented faces.<br>
+This project tries to finetune models pre-trained on complete images of faces to classify emotions of segmented faces.<br>
 ## Links
 models<br>
 https://drive.google.com/drive/folders/1HgExD9omvRpiouxGjaiT309c6uavawaO?usp=sharing
